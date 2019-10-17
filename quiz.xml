@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <categorie>
+      <text>MultipleChoiceQuestion</text>
+    </categorie>
+  </question>
+  <question type="category">
+    <categorie>
+      <text>PairMatchingQuestion</text>
+    </categorie>
+  </question>
+</quiz>
